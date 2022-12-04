@@ -501,7 +501,7 @@ section h3.section-subheading {
     background-color: #{{ site.data.template.color.primary }};
 }
 
-.circle-img {
+.timeline>li .timeline-image .circle-img {
 	height: inherit;
 	object-fit: cover;
 	border-radius: 50%;
