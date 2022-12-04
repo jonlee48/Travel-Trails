@@ -505,7 +505,9 @@ section h3.section-subheading {
 	height: inherit;
 	object-fit: cover;
 	border-radius: 50%;
-	max-height: 99.99%;
+	max-height: 100%;
+    width: inherit;
+    max-width: 100%;
 }
 
 .timeline>li .timeline-image h4 {
