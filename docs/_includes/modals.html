@@ -18,16 +18,20 @@
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                    <strong><a href="{{ post.client-url }}">{{ post.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <strong>{{ post.project-date }}
                                     </strong>
+                                    <!-- <strong><a href="{{ post.project_url }}">{{ post.project-date }}</a>
+                                    </strong> -->
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <strong>{{ post.category }}
                                     </strong>
+                                    <!-- <strong><a href="{{post.category_url }}">{{ post.category }}</a>
+                                    </strong> -->
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
