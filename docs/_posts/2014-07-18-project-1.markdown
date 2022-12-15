@@ -4,11 +4,11 @@ subtitle: Technical Design Document
 layout: default
 modal-id: 1
 date: 2022-12-14
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: writing_4.jpg
+thumbnail: writing_4.jpg
 alt: image-alt
 project-date: April 2014
-project-url: https://github.com/jonlee48/Travel-Trails/blob/main/writing_4.pdf
+project-url: https://github.com/jonlee48/Travel-Trails/blob/main/Writing_4.pdf
 client: Document Link
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
