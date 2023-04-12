@@ -8,8 +8,9 @@ img: promo_vid.png
 thumbnail: promo_vid.png
 alt: image-alt
 project-date: April 2023
-client: 
+client: Video Link
+project-url: https://drive.google.com/file/d/10bZ3bgDQGPrmgMTU7g6DJTRQSFkNijqY/view?usp=share_link
 category: 
-description: [Link to promo video](https://drive.google.com/file/d/10bZ3bgDQGPrmgMTU7g6DJTRQSFkNijqY/view?usp=share_link)
+description: 
 
 ---
