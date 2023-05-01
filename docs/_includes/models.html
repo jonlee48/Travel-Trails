@@ -1,0 +1,68 @@
+<!-- Clients Aside -->
+    <section id="Models">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Models</h2>
+                <h3 class="section-subheading text-muted">A few samples of models generated with Travel Trails! Click and drag to interact.</h3>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <style>
+                        model-viewer {
+                          height: 500px; 
+                          width: 500px;
+                        }
+                </style>
+                <div class="col-md-6">
+                    <model-viewer id="gw_bust" src="img/models/gw_bust.gltf" ar auto-rotate camera-controls></model-viewer>
+                    <h3 class="text-center">GW Bust</h3>
+
+                    <script>
+                    // Adjust orientation of model
+                        const modelViewerBust = document.querySelector("model-viewer#gw_bust");
+                        modelViewerBust.orientation = `${0}deg ${180}deg ${0}deg`;
+                    </script>
+                </div>
+
+                <div class="col-md-6">
+                    <model-viewer id="lincoln" src="img/models/lincoln.gltf" ar auto-rotate camera-controls></model-viewer>
+                    <h3 class="text-center">Lincoln Memorial</h3>
+
+                    <script>
+                    // Adjust orientation of model
+                        const modelViewerLincoln = document.querySelector("model-viewer#lincoln");
+                        modelViewerLincoln.orientation = `${-90}deg ${0}deg ${90}deg`;
+                    </script>
+                  
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <model-viewer id="gw_bench" src="img/models/gw_bench.gltf" ar auto-rotate camera-controls></model-viewer>
+                    <h3 class="text-center">Kogan Bench</h3>
+
+                    <script>
+                    // Adjust orientation of model
+                        const modelViewerBench = document.querySelector("model-viewer#gw_bench");
+                        modelViewerBench.orientation = `${0}deg ${180}deg ${0}deg`;
+                    </script>
+                </div>
+
+                <div class="col-md-6">
+                    <model-viewer id="fdr" src="img/models/fdr.gltf" ar auto-rotate camera-controls></model-viewer>
+                    <h3 class="text-center">FDR Memorial</h3>
+
+                    <script>
+                    // Adjust orientation of model
+                        const modelViewerFdr = document.querySelector("model-viewer#fdr");
+                        modelViewerFdr.orientation = `${0}deg ${180}deg ${0}deg`;
+                    </script>
+                  
+                </div>
+            </div>
+ 
+        </div>
+    <section id="Models">
