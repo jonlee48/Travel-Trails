@@ -3,8 +3,8 @@ baseurl: /Travel-Trails/
 
 # Site settings
 title: Travel Trails
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: 
+description: "Collect 3D models of famous and historic landmarks. These 3D models form your Travel Trails collection. Relive your memories by interacting with the high resolution models and exploring sites like you've never seen before."
 
 
 # Team names, titles and social links
@@ -14,45 +14,37 @@ people:
   position: Backend Design
   social:
     - title: github
-      url: #
+      url: https://github.com/ajbt200128
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/austin-theriault-1648b2168/
 
 - name: Jonathan Lee
   pic: 2
   position: 3D Reconstruction
   social:
     - title: github
-      url: #
+      url: https://github.com/jonlee48
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/jonlee48/
 
 - name: Ryan Hudson
   pic: 3
   position: App Design
   social:
     - title: github
-      url: #
+      url: https://github.com/rhudson11
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/ryan-hudson-297b8017a/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/jonlee48/Travel-Trails
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 800 22nd St NW 
+  - line: Washington, DC 20052
 
 # Build settings
 markdown: kramdown
