@@ -12,6 +12,8 @@ people:
 - name: Austin Theriault
   pic: 1
   position: Backend Design
+  description: >
+    
   social:
     - title: github
       url: https://github.com/ajbt200128
@@ -21,6 +23,15 @@ people:
 - name: Jonathan Lee
   pic: 2
   position: 3D Reconstruction
+  description: >
+    Jonathan is a senior at GW and will be graduating with a B.S. in Computer Science.
+    He has worked as a Teaching Assistant at GW and has been an active member of Design/Build/Fly.
+    After graduating, he will be starting a two year Masters in Robotics program to pursue his interest in
+    robotic perception and autonomy.
+    <br>
+    <br>
+    For Travel Trails, Jonathan worked on utilizing 3D reconstruction software (COLMAP) to create
+    high resolution point clouds generated from user and internet images.
   social:
     - title: github
       url: https://github.com/jonlee48
@@ -30,6 +41,8 @@ people:
 - name: Ryan Hudson
   pic: 3
   position: App Design
+  description: >
+
   social:
     - title: github
       url: https://github.com/rhudson11
