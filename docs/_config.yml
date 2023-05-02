@@ -13,7 +13,12 @@ people:
   pic: 1
   position: Backend Design
   description: >
-    
+    Austin is a senior at GW and will be graduating with a B.S. in Computer Science, with a double major in math. 
+    He has worked as a Teaching Assistant and published researcher at GW. 
+    After graduating he will be working on the Program Analysis team at Semgrep, Inc. 
+    <br>
+    <br>
+    For Travel Trails, Austin worked on setting up the backend server in a Kubernetes cluster, the flask API, and post processing of COLMAP's point clouds. 
   social:
     - title: github
       url: https://github.com/ajbt200128
