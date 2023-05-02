@@ -60,13 +60,13 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
+                        <a class="page-scroll" href="#technology">Technology</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="#models">Models</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#roadmap">Roadmap</a>
+                        <a class="page-scroll" href="#portfolio">Documents</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#team">Team</a>
@@ -144,8 +144,57 @@
             </div>
         </div>
     </section>
+    <!-- Services Section -->
+    <section id="technology" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Technology</h2>
+                    <br>
+                    <!-- <p class="text-muted">Gone are the days where expensive LiDAR equipment is needed to create 3D models. Now all you need is your smartphone and the Travel Trails Android app to contribute points to a crowd sourced collection of 3D models that you can view on your phone. Check out some of our unique features.</p> -->
+
+                    <br>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-6">
+                    <div class="text-center">
+                        <img src="img/technology/frontend.png" alt="" width="500px">
+                    </div>
+                    <h4 class="service-heading">Frontend</h4>
+                    <!-- <p class="text-muted">We fuse user photos into photorealistic 3D models of landmarks and monuments. Users can download the Android app to contribute images and view models on their phone.</p> -->
+                </div>
+                <div class="col-md-6">
+                    <div class="text-center">
+                        <img src="img/technology/backend.png" alt="" width="500px">
+                    </div>
+                    <h4 class="service-heading">Backend</h4>
+                    <!-- <p class="text-muted">We provide a heatmap overlay on each model to highlight areas that are low resolution. Users can then enhance the quality by including those areas in their photos.</p> -->
+                </div>
+            </div>
+
+            <!-- <div class="row text-center">
+                <div class="col-md-6">
+                    <div class="text-center">
+                        <img src="img/technology/frontend.png" alt="" width="500px">
+                    </div>
+                    <h4 class="service-heading">Frontend</h4>
+                    <p class="text-muted">We fuse user photos into photorealistic 3D models of landmarks and monuments. Users can download the Android app to contribute images and view models on their phone.</p>
+                </div>
+                <div class="col-md-6">
+                    <div class="text-center">
+                        <img src="img/technology/backend.png" alt="" width="500px">
+                    </div>
+                    <h4 class="service-heading">Backend</h4>
+                    <p class="text-muted">We provide a heatmap overlay on each model to highlight areas that are low resolution. Users can then enhance the quality by including those areas in their photos.</p>
+                </div>
+            </div> -->
+            
+
+        </div>
+    </section>
     <!-- Clients Aside -->
-    <section id="models" class="bg-light-gray">
+    <section id="models">
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Models</h2>
@@ -192,7 +241,7 @@
                     <script>
                     // Adjust orientation of model
                         const modelViewerLincolnInit = document.querySelector("model-viewer#lincoln_init");
-                        modelViewerLincolnInit.orientation = `${-90}deg ${0}deg ${90}deg`;
+                        modelViewerLincolnInit.orientation = `${0}deg ${180}deg ${0}deg`;
                     </script>
                 </div>
 
@@ -236,13 +285,13 @@
  
         </div>
     </section>
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio">
+    <!-- Portfolio-Grid Section -->
+    <section id="portfolio" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Portfolio</h2>
-                    <h3 class="section-subheading text-muted">Our deliverables including writings, presentations, and diagrams.</h3>
+                    <h2 class="section-heading">Documents</h2>
+                    <h3 class="section-subheading text-muted">Our deliverables including writings, presentations, and videos.</h3>
                 </div>
             </div>
             <div class="row">
@@ -341,86 +390,6 @@
         </div>
     </section>
 
-    <!-- About Section -->
-    <section id="roadmap" class="bg-light-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Roadmap</h2>
-                    <h3 class="section-subheading text-muted">These are our major milestones.</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <ul class="timeline">
-                        <li>
-                            <div class="timeline-image">
-                                <img class="circle-img" src="img/about/pitch_presentation.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>October 2022</h4>
-                                    <h4 class="subheading">Pitch Presentation</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">In September, we brainstormed ideas, defined a problem, and developed a solution. In October, we introduced Travel Trails, our product, and future goals.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="circle-img" src="img/about/technical_presentation.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>November 2022</h4>
-                                    <h4 class="subheading">Technical Presentation</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">We present the technical design of the project and detail our technical innovation and challenges.</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <h4>Be Part
-                                    <br>Of Our
-                                    <br>Story!</h4>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
     <!-- Team Section -->
     <section id="team">
         <div class="container">
