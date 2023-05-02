@@ -42,7 +42,12 @@ people:
   pic: 3
   position: App Design
   description: >
-
+    Ryan Hudson is a senior at GW and will be graduating with a B.S. in Computer Science and a minor in Psychology. 
+    During his time at GW, he completed a non-technical track in Law & Crime and interned at the US District Court for the District of Columbia. 
+    After graduating, he will be pursuing a Juris Doctor and subsequently, a career in patent law.
+    <br>
+    <br>
+    For Travel Trails, Ryan worked on front end development, designing and building the Android application that users interact with.
   social:
     - title: github
       url: https://github.com/rhudson11
