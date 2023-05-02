@@ -1,0 +1,16 @@
+---
+title: Product Video
+subtitle: 
+layout: default
+modal-id: 2
+date: 2023-04-29
+img: promo_vid.png
+thumbnail: promo_vid.png
+alt: image-alt
+project-date: May 2023
+client: Video
+project-url: 
+category: 
+description: 
+
+---

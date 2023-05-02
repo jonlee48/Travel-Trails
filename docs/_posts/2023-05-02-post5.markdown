@@ -1,0 +1,16 @@
+---
+title: Technical Design Doc
+subtitle: 
+layout: default
+modal-id: 5
+date: 2023-04-26
+img: writing_4.jpg
+thumbnail: writing_4.jpg
+alt: image-alt
+project-date: December 2022
+client: Link
+project-url: https://drive.google.com/file/d/1s8w5BqE-4yHH-sv56h3Azv6aqpUGYWi_/view?usp=sharing
+category: 
+description: 
+
+---

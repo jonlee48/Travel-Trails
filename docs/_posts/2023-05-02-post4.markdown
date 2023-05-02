@@ -1,0 +1,16 @@
+---
+title: 3D Printing Presentation
+subtitle: 
+layout: default
+modal-id: 4
+date: 2023-04-27
+img: 3d_models_thumbnail.png
+thumbnail: 3d_models_thumbnail.png 
+alt: image-alt
+project-date: April 2023
+client: Slides
+project-url: https://docs.google.com/presentation/d/17qeiwNaLBY72_SurLjvLaK_HgvGEORbOnyMCUKLlxoI/edit?usp=sharing
+category: 
+description: 
+
+---

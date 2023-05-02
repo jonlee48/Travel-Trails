@@ -1,0 +1,16 @@
+---
+title: Final Presentation
+subtitle: 
+layout: default
+modal-id: 3
+date: 2023-04-28
+img: final_presentation_thumbnail.png 
+thumbnail: final_presentation_thumbnail.png 
+alt: image-alt
+project-date: April 2023
+client: Slides
+project-url: https://docs.google.com/presentation/d/1aTnqmkNHc5jpQUDLcrFzPNDIQHumy6RwS3T8MaqNCCI/edit?usp=sharing 
+category: 
+description: 
+
+---
