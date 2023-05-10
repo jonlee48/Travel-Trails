@@ -9,7 +9,7 @@ thumbnail: promo_vid.png
 alt: image-alt
 project-date: May 2023
 client: Video
-project-url: 
+project-url: https://youtu.be/tfGAimgp4XQ
 category: 
 description: 
 
