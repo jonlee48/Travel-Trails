@@ -9,6 +9,7 @@ thumbnail: promo_vid.png
 alt: image-alt
 project-date: April 2023
 client: Video
+embed-url: https://www.youtube.com/embed/MfvUr2x9m-Q 
 project-url: https://youtu.be/MfvUr2x9m-Q 
 category: 
 description: 

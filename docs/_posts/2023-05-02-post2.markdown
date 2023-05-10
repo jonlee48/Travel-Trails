@@ -4,11 +4,12 @@ subtitle:
 layout: default
 modal-id: 2
 date: 2023-04-29
-img: promo_vid.png
-thumbnail: promo_vid.png
+img: final_presentation_thumbnail.png 
+thumbnail: final_presentation_thumbnail.png 
 alt: image-alt
 project-date: May 2023
 client: Video
+embed-url: https://www.youtube.com/embed/tfGAimgp4XQ
 project-url: https://youtu.be/tfGAimgp4XQ
 category: 
 description: 
